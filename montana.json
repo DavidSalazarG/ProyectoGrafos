@@ -1,0 +1,168 @@
+{
+    "montana": [
+        {
+        "nombre": "Silvestre",
+        "aristas": [
+            {
+            "nombreD": "Tazmania",
+            "costo": 15
+            },
+            {
+            "nombreD": "Piolin",
+            "costo": 10
+            }
+            ],
+        "x": 400,
+        "y": 150
+        },
+        {
+        "nombre": "Piolin",
+        "aristas": [
+            {
+            "nombreD": "Yayita",
+            "costo": 25
+            },
+            {
+            "nombreD": "Popeye",
+            "costo": 30
+            }
+            ],
+        "x": 400,
+        "y": 300
+        },
+        {
+        "nombre": "Tazmania",
+        "aristas": [
+            {
+            "nombreD": "Silvestre",
+            "costo": 15
+            },
+            {
+            "nombreD": "Yayita",
+            "costo": 16
+            },
+            {
+            "nombreD": "Coyote",
+            "costo": 21
+            },
+            {
+            "nombreD": "Bunny",
+            "costo": 33
+            }
+            ],
+        "x": 600,
+        "y": 150
+        },
+        {
+        "nombre": "Yayita",
+        "aristas": [
+            {
+            "nombreD": "Piolin",
+            "costo": 25
+            },
+            {
+            "nombreD": "Tazmania",
+            "costo": 16
+            },
+            {
+            "nombreD": "Bunny",
+            "costo": 22
+            }
+            ],
+        "x": 600,
+        "y": 300
+        },
+        {
+        "nombre": "Popeye",
+        "aristas": [
+            {
+            "nombreD": "Piolin",
+            "costo": 30
+            },
+            {
+            "nombreD": "Correcaminos",
+            "costo": 5
+            }
+            ],
+        "x": 600,
+        "y": 450
+        },
+        {
+        "nombre": "Coyote",
+        "aristas": [
+            {
+            "nombreD": "Tazmania",
+            "costo": 21
+            },
+            {
+            "nombreD": "Marvin",
+            "costo": 58
+            }
+            ],
+        "x": 800,
+        "y": 150
+        },
+        {
+        "nombre": "Bunny",
+        "aristas": [
+            {
+            "nombreD": "Tazmania",
+            "costo": 33
+            },
+            {
+            "nombreD": "Yayita",
+            "costo": 22
+            },
+            {
+            "nombreD": "Marvin",
+            "costo": 2
+            },
+            {
+            "nombreD": "Correcaminos",
+            "costo": 60
+            }
+            ],
+        "x": 800,
+        "y": 300
+        },
+        {
+        "nombre": "Correcaminos",
+        "aristas": [
+            {
+            "nombreD": "Popeye",
+            "costo": 5
+            },
+            {
+            "nombreD": "Bunny",
+            "costo": 60
+            },
+            {
+            "nombreD": "Marvin",
+            "costo": 44
+            }
+            ],
+        "x": 800,
+        "y": 450
+        },
+        {
+        "nombre": "Marvin",
+        "aristas": [
+            {
+            "nombreD": "Coyote",
+            "costo": 58
+            },
+            {
+            "nombreD": "Bunny",
+            "costo": 2
+            },
+            {
+            "nombreD": "Correcaminos",
+            "costo": 44
+            }
+            ],
+        "x": 1000,
+        "y": 300
+        }
+        
+    ]
+}
